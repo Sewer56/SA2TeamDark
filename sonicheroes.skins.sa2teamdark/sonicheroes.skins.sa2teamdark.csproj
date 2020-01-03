@@ -39,6 +39,7 @@
 
   <ItemGroup>
     <Content Include="Assets\**" CopyToOutputDirectory="Always" CopyToPublishDirectory="Always" />
+    <Content Include="Redirector\**" CopyToOutputDirectory="Always" CopyToPublishDirectory="Always" />
   </ItemGroup>
 
 </Project>
