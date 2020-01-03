@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "sonicheroes.skins.sa2teamdark", "sonicheroes.skins.sa2teamdark\sonicheroes.skins.sa2teamdark.csproj", "{3819AFEC-844A-442C-AA59-394F84986ADE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Submodules", "Submodules", "{3A2CBE29-3407-4617-812B-9B7D5203D24A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Reloaded.Universal.Redirector.Interfaces", "Submodules\Redirector\Reloaded.Universal.Redirector.Interfaces\Reloaded.Universal.Redirector.Interfaces.csproj", "{D1A50E25-A4DC-41D2-AFEC-2A1CB8D15078}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3819AFEC-844A-442C-AA59-394F84986ADE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3819AFEC-844A-442C-AA59-394F84986ADE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3819AFEC-844A-442C-AA59-394F84986ADE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3819AFEC-844A-442C-AA59-394F84986ADE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1A50E25-A4DC-41D2-AFEC-2A1CB8D15078}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1A50E25-A4DC-41D2-AFEC-2A1CB8D15078}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1A50E25-A4DC-41D2-AFEC-2A1CB8D15078}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1A50E25-A4DC-41D2-AFEC-2A1CB8D15078}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{D1A50E25-A4DC-41D2-AFEC-2A1CB8D15078} = {3A2CBE29-3407-4617-812B-9B7D5203D24A}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A8005B4-5488-4C13-8DAB-892D7B48EE66}
+	EndGlobalSection
+EndGlobal

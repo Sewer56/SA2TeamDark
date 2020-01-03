@@ -1,0 +1,15 @@
+{
+  "ModId": "sonicheroes.skins.sa2teamdark",
+  "ModName": "SA2 Team Dark",
+  "ModAuthor": "Shadowth117, Sewer56",
+  "ModVersion": "1.0.0",
+  "ModDescription": "Template for a Reloaded Mod Configuration",
+  "ModDll": "SonicHeroes.Skins.SA2TeamDark.dll",
+  "ModIcon": "Preview.png",
+  "ModR2RManagedDll32": "",
+  "ModR2RManagedDll64": "",
+  "ModNativeDll32": "",
+  "ModNativeDll64": "",
+  "ModDependencies": [ "reloaded.universal.redirector" ],
+  "SupportedAppId": [ "tsonic_win.exe" ]
+}
